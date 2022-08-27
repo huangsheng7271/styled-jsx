@@ -54,11 +54,9 @@ npm install --save styled-jsx
 
 ~~Next, add `styled-jsx/babel` to `plugins` in your babel configuration:~~
 
-~~```json
-{
+~~{
   "plugins": ["styled-jsx/babel"]
-}～～
-```~~
+}~~
 
 Now add `<style jsx>` to your code and fill it with CSS:
 
